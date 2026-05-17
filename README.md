@@ -1,5 +1,7 @@
 # 📍 Consulta de CEP - Integração ViaCEP
 
+https://luluzin2025.github.io/bootcamp-intermediario/
+
 ![Status do Projeto](https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
